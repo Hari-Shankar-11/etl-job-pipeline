@@ -1,4 +1,4 @@
- – Internshala Data Analyst Internships
+ # Internshala Data Analyst Internships
 
 An automated Extract → Transform → Load pipeline that scrapes
 live Data Analyst internship postings from Internshala, cleans
